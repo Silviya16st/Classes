@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\bin\Debug\net8.0\Persons.exe
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\bin\Debug\net8.0\Persons.deps.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\bin\Debug\net8.0\Persons.runtimeconfig.json
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\bin\Debug\net8.0\Persons.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\bin\Debug\net8.0\Persons.pdb
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\obj\Debug\net8.0\Persons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\obj\Debug\net8.0\Persons.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\obj\Debug\net8.0\Persons.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\obj\Debug\net8.0\Persons.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\obj\Debug\net8.0\Persons.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\obj\Debug\net8.0\refint\Persons.dll
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\obj\Debug\net8.0\Persons.pdb
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\obj\Debug\net8.0\Persons.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-13\Desktop\Silviya 9a\Classes9a\Persons\obj\Debug\net8.0\ref\Persons.dll
